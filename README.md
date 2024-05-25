@@ -1,5 +1,7 @@
 # Bug report for broken kafka template metric with tag provider
 
+Metrics available at `http://localhost:8080/actuator/prometheus`.
+
 To run:
 
 * With kafka without SSL:
